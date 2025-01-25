@@ -5,10 +5,10 @@ This repository contains projects related to weather forecasting and a weather a
 ## Repository Structure
 
 - **`Data Scientist Role/weather_forecasting_project/`**  
-  Contains the weather forecasting project aimed at analyzing and predicting weather patterns using machine learning and data analysis techniques.
+  Contains the Data Scientist Role technical assessment task.
 
 - **`SWE - AIML Role/weather-app/`**  
-  Includes the weather app project, likely involving frontend or backend development for a weather application.
+  Contains the SWE - AIML Role technical assessment task.
 
 ## Features
 

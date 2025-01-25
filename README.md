@@ -29,7 +29,7 @@ This repository contains projects related to weather forecasting and a weather a
    cd weather-app
    ```
 
-2. Explore the relevant folder based on your role or interest:
+2. Explore the relevant folder based on the role:
    - For data science tasks: `Data Scientist Role/weather_forecasting_project/`
    - For app development: `SWE - AIML Role/weather-app/`
 
